@@ -1,0 +1,2 @@
+What the user was trying to do?	They attempted to sign in (POST request to /signin) using JSON data.
+What did they receive?	A successful response (HTTP 200 OK) with a JSON body — meaning login was accepted.
