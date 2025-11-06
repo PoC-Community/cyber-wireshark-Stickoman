@@ -1,0 +1,1 @@
+tshark -r exo7-forensic/traffic-analysis.pcap -Y "ip && ip.addr == 10.100.14.0/24" -T fields -e ip.src | sort -u
