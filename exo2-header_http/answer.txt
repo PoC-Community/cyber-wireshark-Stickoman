@@ -1,0 +1,3 @@
+The Base64 string: dXNlcm5hbWU6cGFzc3dvcmQ=
+echo 'dXNlcm5hbWU6cGFzc3dvcmQ=' | base64 -d
+username:password
